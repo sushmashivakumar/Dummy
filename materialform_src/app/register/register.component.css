@@ -1,0 +1,18 @@
+/* .my-form{
+    min-width: 150px;
+    max-width: 500px;
+    width: 100%;
+  } */
+  .full-width {
+    width: 30%;
+  }
+  .example-section {
+    min-width: 150px;
+    max-width: 500px;
+    margin-left: 335px;
+    width: 50%;
+    margin-top: 10px;
+  }
+  .example-margin{
+      margin-left: -1px;
+  }
